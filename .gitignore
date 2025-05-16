@@ -1,0 +1,12 @@
+# Ignorer miljøfiler og nøkler
+.env
+*.pem
+*.key
+*.crt
+
+# Fly.io SSH/credentials
+.fly/
+ssh/
+
+# macOS metadata
+.DS_Store
